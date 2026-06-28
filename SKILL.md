@@ -1,5 +1,5 @@
 ---
-name: Prelnterview-Corporate-Analysis
+name: PreInterview-Corporate-Analysis
 description: 对目标公司进行全方位背调分析并生成面试话术。适用于求职者拿到面试通知后、面试前对公司进行深度调研的场景。输入公司名称+岗位信息，输出10大模块的完整背调报告（含工商信息、薪资对比、风险预警、行业分析、面试话术等）。支持隐私隔离，个人信息与规则分离。内置AI自检机制防止编造数据。
 license: MIT
 ---
